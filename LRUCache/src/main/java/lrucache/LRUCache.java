@@ -1,6 +1,6 @@
 public class LRUCache {
     public static void main(String[] args)  {
-        lrucache.CacheOperations cache = new lrucache.CacheOperations(3);
+        CacheOperations cache = new CacheOperations(3);
         cache.add(1, "One");
         cache.add(2, "Two");
         cache.add(3, "Three");
