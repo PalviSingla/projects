@@ -1,5 +1,3 @@
-package lrucache;
-
 import java.util.*;
 
 public class CacheOperations {
